@@ -1,0 +1,74 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.row {
+  height: 80px;
+  border-top: 1px solid white;
+}
+
+.col-md-2 {
+  height: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.col-md-8 {
+  height: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-body {
+  height: 100%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.card-body-hour {
+  text-align: right;
+}
+
+.card-body-event {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.card-body-save {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.btn-save {
+  height: 100%;
+  width: 100%;
+}
