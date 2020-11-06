@@ -1,4 +1,7 @@
 # Day-Planner
+
+* [`Try out the planner here!`](https://richardmshaw.github.io/Day-Planner/)
+
 A very basic day planner where you can set up what you plan to do for that day.
 By default, opening hours are set to 9AM and end at 6PM.
 ![image](screenshots/planner_default.png)
